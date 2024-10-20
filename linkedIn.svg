@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 58.63 58.46">
+    <defs>
+        <mask id="a" x="0" y="0" width="58.63" height="58.46" maskUnits="userSpaceOnUse">
+            <g transform="translate(-0.42 0)">
+                <polygon points="0.42 0 59.05 0 59.05 58.46 0.42 58.46 0.42 0" fill="#fff" fill-rule="evenodd" />
+            </g>
+        </mask>
+    </defs>
+    <path d="M31.36,26.13V26a.83.83,0,0,1-.08.12Z" transform="translate(-0.42 0)" fill="#326e5a" fill-rule="evenodd" />
+    <g mask="url(#a)">
+        <path
+            d="M50.12,48.93H41.27V34.81c0-3.55-1.28-6-4.49-6a4.84,4.84,0,0,0-4.54,3.21A6.06,6.06,0,0,0,32,34.19V48.93H23.09s.12-23.92,0-26.39H32v3.73a8.82,8.82,0,0,1,8-4.36c5.83,0,10.19,3.78,10.19,11.89Zm-36.35-30h-.06a4.57,4.57,0,0,1-4.9-4.56c0-2.59,2-4.56,5-4.56a4.59,4.59,0,0,1,5,4.56c0,2.54-1.93,4.56-5,4.56Zm-4.43,30h8.85V22.54H9.34ZM54.72,0h-50A4.26,4.26,0,0,0,.42,4.19V54.27a4.27,4.27,0,0,0,4.33,4.19h50a4.27,4.27,0,0,0,4.33-4.19V4.19A4.26,4.26,0,0,0,54.72,0Z"
+            transform="translate(-0.42 0)" fill="#326e5a" fill-rule="evenodd" />
+    </g>
+</svg>
